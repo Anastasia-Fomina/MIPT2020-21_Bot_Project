@@ -1,5 +1,5 @@
 # MIPT2020-21_Bot_Project
-This is a telegram bot, that makes style transfer.
+This is a telegram bot, that makes style transfer! The code is in Bot.py file.
 
 First reseived image is considered as content image, the second received - as style image.
 
