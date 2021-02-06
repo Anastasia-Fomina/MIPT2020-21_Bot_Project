@@ -250,7 +250,7 @@ def run_style_transfer(cnn, normalization_mean, normalization_std,
     return input_img
 
 # Bot part
-bot = telebot.TeleBot("1431041965:AAEICsH9QB3t39bEEpYnI5-s3wBP_0tCnYI")
+bot = telebot.TeleBot("TOKEN")
 
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
